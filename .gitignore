@@ -1,3 +1,4 @@
 .DS_Store
 notebooks/.ipynb_checkpoints/
 data/yield_df.csv
+models/
